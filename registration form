@@ -1,0 +1,90 @@
+<html>
+<head>
+    <title> registration form </title>
+</head>
+<body  bgcolor="pink" align="center">
+    <table  align="center" border="2">
+        <td  bgcolor="biege">
+        <input type="radio" name="gender" value="mr">
+        <label>mr</label>
+   
+    <label for mrs>
+        <input type="radio" name="gender" value="mr">
+        <label>mrs</label>
+   <label for ms>
+            <input type="radio" name="gender" value="mr">
+            <label>mr</label>
+            <br><br>
+
+
+            <input type="checkbox" name="gender" value="mr">
+            <label>mr</label>
+       
+        <label for mrs>
+            <input type="checkbox" name="gender" value="mr">
+            <label>mrs</label>
+       <label for ms>
+                <input type="checkbox" name="gender" value="mr">
+                <label>mr</label>
+                <br><br>       
+    <label>USERNAME:</label>
+    <input type="text" placeholder="">
+    <br><br>
+    <label>STUDENT ID:</label>
+    <input type="text" placeholder="">
+    <br><br>
+    <label>FIRSTNAME:</label>
+    <input type="text" placeholder="">
+    <br><br>
+    <label>LASTNAME:</label>
+    <input type="text" placeholder="">
+    <br><br>
+    <label>PASSWORD:</label>
+    <input type="password" placeholder="">
+    <br><br>
+    <label>address:</label>
+    <textarea>
+
+    </textarea>
+    <br><br>
+    <label>USERNAME:</label>
+    <input type="text" placeholder="">
+    <br><br>
+    <label>USERNAME:</label>
+    <input type="text" placeholder="">
+    <br><br>
+
+
+    <label>STATE:</label>
+    <select>
+    <option> </option>
+             <option> telangana</option>
+              <option>ANDHRAPRADESH</option>
+              <option> MAHARASHTRA</option>
+              <option>KERELA</option>
+              <option>KARNATAKA</option>
+              <option>TAMILNADU</option>
+              <option>ODISA</option>
+              <option>UTTARPRADESH</option>
+              <option>MADHYAPRADESH</option>
+              <option>UTTARKHAND</option>
+              <option>SHIMLA</option>
+              <option>ASSAM</option>
+              <option>GUJARAT</option>
+              <option>KOLKATA</option>
+              <option>RAJASTAN</option>
+              <option>DELHI</option>
+              <option> PUNJAB</option>
+              <option>GOA</option>
+              <option>JAMMU AND KASHMIR</option>
+              <option> NAGAPUR</option>
+              <option>CHATTISGARH</option>
+
+
+    </select><br><br>
+    <label>uploadphoto::</label>
+    <input type="file" placeholder="browser">
+</td>
+</table>
+</body>
+</html>
